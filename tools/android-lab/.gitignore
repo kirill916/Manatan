@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+*.apk
+*.so
+*.p12
+*.jks
+*.keystore
+*.report.json
+*.emulator-cases.json
+*.disassembly.txt
+*.trampoline.asm
